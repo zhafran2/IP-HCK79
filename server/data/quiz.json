@@ -10,12 +10,12 @@
     "userId": 1
   },
   {
-    "question": "Berikut ini yang bukan calon presiden 2024 adalah...",
-    "option1": "Syaoki Dika",
-    "option2": "Anies Baswedan",
-    "option3": "Prabowo Subianto",
-    "option4": "Ganjar Pranowo",
-    "ans": 1,
+    "question": "Hewan Apa yang memiliki dua kaki?",
+    "option1": "Burung",
+    "option2": "Jerapah",
+    "option3": "Kangguru",
+    "option4": "Semua Benar",
+    "ans": 4,
     "categoryId": 1,
     "userId": 1
   },
@@ -50,13 +50,13 @@
     "userId": 1
   },
   {
-    "question": "Apa yang selalu datang, tetapi tidak pernah tiba?",
-    "option1": "Hari esok",
-    "option2": "Kebahagiaan",
-    "option3": "Besok",
-    "option4": "Keberuntungan",
+    "question": "Negara apa yang sulit mendengar?",
+    "option1": "Palembang",
+    "option2": "Jakarta ",
+    "option3": "Pekalongan",
+    "option4": "Bogor",
     "ans": 3,
-    "categoryId": 2,
+    "categoryId": 1,
     "userId": 1
   },
   {
@@ -98,104 +98,5 @@
     "ans": 2,
     "categoryId": 2,
     "userId": 1
-  },
-  {
-    "question": "Apa yang semakin besar saat lebih banyak yang diambil darinya?",
-    "option1": "Lubang",
-    "option2": "Gunung",
-    "option3": "Laut",
-    "option4": "Pohon",
-    "ans": 1,
-    "categoryId": 2,
-    "userId": 1
-  },
-  {
-    "question": "Saya selalu lapar, dan saya harus selalu makan, jika saya tidak makan, saya akan mati. Saya apa?",
-    "option1": "Singa",
-    "option2": "Api",
-    "option3": "Ular",
-    "option4": "Harimau",
-    "ans": 2,
-    "categoryId": 2,
-    "userId": 1
-  },
-  {
-    "question": "Apa yang tidak bisa bicara tapi bisa menceritakan banyak cerita?",
-    "option1": "Hewan",
-    "option2": "Buku",
-    "option3": "Gambar",
-    "option4": "Film",
-    "ans": 2,
-    "categoryId": 2,
-    "userId": 1
-  },
-  {
-    "question": "Saya punya banyak kunci, tapi tidak ada pintu. Saya punya ruang, tapi tidak ada tempat. Anda bisa masuk, tetapi Anda tidak bisa keluar. Apa saya?",
-    "option1": "Rumah",
-    "option2": "Keyboard",
-    "option3": "Lemari",
-    "option4": "Kotak",
-    "ans": 2,
-    "categoryId": 2,
-    "userId": 1
-  },
-  {
-    "question": "Apa yang memiliki satu kepala, satu kaki, dan empat sisi?",
-    "option1": "Kursi",
-    "option2": "Meja",
-    "option3": "Tempat tidur",
-    "option4": "Kasur",
-    "ans": 2,
-    "categoryId": 2,
-    "userId": 1
-  },{
-    "question": "Berapa banyak benua yang ada di dunia?",
-    "option1": "5",
-    "option2": "6",
-    "option3": "7",
-    "option4": "8",
-    "ans": 3,
-    "categoryId": 1,
-    "userId": 1
-},
-{
-    "question": "Negara apakah yang memiliki ibukota bernama Khatmandu?",
-    "option1": "Prancis",
-    "option2": "Mongolia",
-    "option3": "Afghanistan",
-    "option4": "Pakistan",
-    "ans": 2,
-    "categoryId": 1,
-    "userId": 1
-},
-{
-    "question": "Puncak gunung tertinggi di dunia adalah?",
-    "option1": "K2",
-    "option2": "Kangchenjunga",
-    "option3": "Everest",
-    "option4": "Lhotse",
-    "ans": 3,
-    "categoryId": 1,
-    "userId": 1
-},
-{
-    "question": "Hewan apa yang dikenal sebagai 'Raja Hutan'?",
-    "option1": "Harimau",
-    "option2": "Singa",
-    "option3": "Beruang",
-    "option4": "Gajah",
-    "ans": 2,
-    "categoryId": 1,
-    "userId": 1
-},
-{
-    "question": "Siapa penemu teori relativitas?",
-    "option1": "Isaac Newton",
-    "option2": "Albert Einstein",
-    "option3": "Galileo Galilei",
-    "option4": "Marie Curie",
-    "ans":2,
-    "categoryId": 1,
-    "userId": 1
-}
+  }
 ]
