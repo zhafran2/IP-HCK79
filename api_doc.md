@@ -27,10 +27,11 @@ List of available endpoints:
 - `POST /login`
 
 And routes below need authentication
-- `GET /products`
-- `POST /products`
-- `PUT /product/:id`
-- `DELETE /products:id`
+- `GET /quiz`
+-`GET /quiz/api`
+- `POST /quiz`
+- `PUT /quiz/:id`
+- `DELETE /quiz/:id`
 
 1. add user
 
