@@ -1,0 +1,102 @@
+[
+  {
+    "question": "dalam konfederasi sepakbola, Australia termasuk dalam Konfederasi...",
+    "option1": "AFC",
+    "option2": "UEFA",
+    "option3": "Conmebol",
+    "option4": "Hongkim",
+    "ans": 1,
+    "categoryId": 1,
+    "userId": 1
+  },
+  {
+    "question": "Hewan Apa yang memiliki dua kaki?",
+    "option1": "Burung",
+    "option2": "Jerapah",
+    "option3": "Kangguru",
+    "option4": "Semua Benar",
+    "ans": 4,
+    "categoryId": 1,
+    "userId": 1
+  },
+  {
+    "question": "Negara apa yg selalu menolak?",
+    "option1": "Iran",
+    "option2": "Malaysia",
+    "option3": "Norway",
+    "option4": "Bhutan",
+    "ans": 3,
+    "categoryId": 2,
+    "userId": 1
+  },
+  {
+    "question": "Buah apa yang selalu digunakan oleh prajurit?",
+    "option1": "Durian",
+    "option2": "Melon",
+    "option3": "Apel",
+    "option4": "Manggis",
+    "ans": 3,
+    "categoryId": 2,
+    "userId": 1
+  },
+  {
+    "question": "Sirkuit Balap Spa-Franchorchamps terletak di Negara...",
+    "option1": "Luxemburg",
+    "option2": "Belgia",
+    "option3": "Prancis",
+    "option4": "Guyana",
+    "ans": 2,
+    "categoryId": 1,
+    "userId": 1
+  },
+  {
+    "question": "Negara apa yang sulit mendengar?",
+    "option1": "Palembang",
+    "option2": "Jakarta ",
+    "option3": "Pekalongan",
+    "option4": "Bogor",
+    "ans": 3,
+    "categoryId": 1,
+    "userId": 1
+  },
+  {
+    "question": "Apa yang memiliki banyak mata, tetapi tidak dapat melihat?",
+    "option1": "Kupu-kupu",
+    "option2": "Kentang",
+    "option3": "Buaya",
+    "option4": "Buku",
+    "ans": 2,
+    "categoryId" :2,
+    "userId":1
+  },
+  {
+    "question": "Hewan apa yang selalu membawa rumahnya ke mana pun ia pergi?",
+    "option1": "Singa",
+    "option2": "Siput",
+    "option3": "Burung",
+    "option4": "Ular",
+    "ans": 2,
+    "categoryId": 2,
+    "userId": 1
+  },
+  {
+    "question": "Apa yang lebih berat, satu kilogram besi atau satu kilogram kapas?",
+    "option1": "Besi",
+    "option2": "Kapas",
+    "option3": "Sama berat",
+    "option4": "Tidak bisa ditentukan",
+    "ans": 3,
+    "categoryId": 2,
+    "userId": 1
+  },
+  {
+    "question": "Apa yang punya leher panjang tapi tidak punya kepala?",
+    "option1": "Jerapah",
+    "option2": "Botol",
+    "option3": "Gitar",
+    "option4": "Kalung",
+    "ans": 2,
+    "categoryId": 2,
+    "userId": 1
+  }
+]

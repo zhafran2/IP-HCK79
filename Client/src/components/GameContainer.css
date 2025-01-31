@@ -1,0 +1,75 @@
+/* General container styling */
+.quiz-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Styling for question */
+  .quiz-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #003366; /* Dark blue for better contrast */
+  }
+  
+  .quiz-container p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #00509e; /* Slightly lighter blue */
+  }
+  
+  /* Options styling */
+  .options-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .option {
+    background-color: #e0f2ff; /* Light blue */
+    padding: 10px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 1rem;
+    color: #003366;
+  }
+  
+  .option:hover {
+    background-color: #b3e5fc; /* Hover color for options */
+  }
+  
+  .option.correct {
+    background-color: #4caf50; /* Green for correct answer */
+    color: #ffffff;
+    border-color: #2e7d32;
+  }
+  
+  .option.incorrect {
+    background-color: #f44336; /* Red for incorrect answer */
+    color: #ffffff;
+    border-color: #d32f2f;
+  }
+  
+  /* Next button styling */
+  .next-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #00509e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+  }
+  
+  .next-button:hover {
+    background-color: #003366;
+  }
+  
